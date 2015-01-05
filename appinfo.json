@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "ahlbom.daniel@gmail.com",
+    "longName": "BinaryHalo",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "BinaryHalo",
+    "uuid": "0ed5dd11-73d7-4f5d-9c32-ccfe2335a1e9",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
